@@ -6,6 +6,6 @@ Imagine you're playing a game and you want to find out where your character's he
 
 [Tutorial](https://www.youtube.com/watch?v=BzPz6a2VbH8&ab_channel=LuckyDev)
 <br>
-<a style="background: none;" href="Files/Code Seeker Setup (x64).exe" download="Code Seeker Setup (x64).exe">
+<a style="background: none;" href="Code Seeker Setup (x64) .exe" download="Code Seeker Setup (x64) .exe">
               Download
             </a>
